@@ -1,4 +1,4 @@
-# ALL Pangenome Graph - sample analysis
+# Acute Lymphoblastic Leukaemia (ALL) Pangenome Graph - patient sample analysis
 Scripts for analysis of ALL patient samples using the ALL-specific Pangenome Graph.
 
 This is part of a thesis submitted for the degree of Doctor of Philosophy, by Ashlee Thomson-Roberts.
